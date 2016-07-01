@@ -6052,6 +6052,8 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <sheets>
 <sheet>
 <plain>
+<text x="175.26" y="30.48" size="2.54" layer="94">L298 Dual H-Bridge Motor Driver</text>
+<text x="266.7" y="7.62" size="2.54" layer="94">1</text>
 </plain>
 <instances>
 <instance part="IC1" gate="L298" x="134.62" y="116.84"/>
